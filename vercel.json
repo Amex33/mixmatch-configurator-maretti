@@ -10,7 +10,9 @@
             "excludeFiles": "{node_modules/**,public/images/**,public/models/**,tests/**,tools/**,storage/**}"
         }
     },
-    "rewrites": [
-        { "source": "/(.*)", "destination": "/api/index.php" }
+    "routes": [
+        { "src": "/(build|images|models)/(.*)", "dest": "/$1/$2" },
+        { "src": "/(favicon\\.ico|robots\\.txt)", "dest": "/$1" },
+        { "src": "/(.*)", "dest": "/api/index.php" }
     ]
 }
