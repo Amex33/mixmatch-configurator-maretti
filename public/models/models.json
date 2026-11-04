@@ -1,0 +1,122 @@
+{
+ "tulip-s": {
+  "width": 200,
+  "height": 202,
+  "faces": {
+   "glass": 9646,
+   "metal": 5157
+  }
+ },
+ "tulip-m": {
+  "width": 300,
+  "height": 250,
+  "faces": {
+   "glass": 2590,
+   "metal": 4271
+  }
+ },
+ "tulip-l": {
+  "width": 400,
+  "height": 396,
+  "faces": {
+   "glass": 2590,
+   "metal": 5157
+  }
+ },
+ "icon": {
+  "width": 50,
+  "height": 400,
+  "faces": {
+   "glass": 716,
+   "light": 3204
+  }
+ },
+ "jewel-s": {
+  "width": 138,
+  "height": 157,
+  "faces": {
+   "holder": 1457,
+   "glass": 128,
+   "light": 22
+  }
+ },
+ "jewel-l": {
+  "width": 131,
+  "height": 200,
+  "faces": {
+   "holder": 1457,
+   "glass": 128,
+   "light": 22
+  }
+ },
+ "paradiso-170": {
+  "width": 170,
+  "height": 214,
+  "faces": {
+   "glass": 1600,
+   "holder": 2828,
+   "light": 92
+  }
+ },
+ "paradiso-250": {
+  "width": 250,
+  "height": 262,
+  "faces": {
+   "glass": 1600,
+   "holder": 2828,
+   "light": 92
+  }
+ },
+ "soffio": {
+  "width": 150,
+  "height": 119,
+  "faces": {
+   "glass": 192,
+   "holder": 540,
+   "light": 1608
+  }
+ },
+ "tommy-27": {
+  "width": 270,
+  "height": 170,
+  "faces": {
+   "metal": 2640,
+   "gold": 2542,
+   "light": 1608
+  }
+ },
+ "tommy-32": {
+  "width": 334,
+  "height": 231,
+  "faces": {
+   "metal": 2640,
+   "gold": 2650,
+   "light": 1608
+  }
+ },
+ "tommy-45": {
+  "width": 463,
+  "height": 227,
+  "faces": {
+   "metal": 2640,
+   "gold": 2546,
+   "light": 1608
+  }
+ },
+ "tommy-60": {
+  "width": 600,
+  "height": 230,
+  "faces": {
+   "metal": 2640,
+   "gold": 2542,
+   "light": 1608
+  }
+ },
+ "bo": {
+  "width": 16,
+  "height": 800,
+  "faces": {
+   "holder": 380
+  }
+ }
+}
